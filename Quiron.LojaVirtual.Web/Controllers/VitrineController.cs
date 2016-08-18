@@ -11,7 +11,7 @@ namespace Quiron.LojaVirtual.Web.Controllers
     {
         private ProdutosRespositorios _repositorio;
         //Quantidade de produtos na página
-        public int ProdutosPorPagina = 10;
+        public int ProdutosPorPagina = 8;
 
         public ActionResult ListaProdutos(int pagina = 1)
         {

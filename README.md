@@ -15,12 +15,12 @@ To run this project you will need the bellow tools:
 To install the project you just need to clone the project and run the bellow commands 
 
 ```javascript
-- npm install
+npm install
 ```
 
 To run tests use npm and aliases configured in package.json. As this project is only a PoC, the only test running npm script need is:
 ```javascript
-- npm run test:chrome
+npm run test:chrome
 ```
 Feel free to update anything you miss in here! :)
 

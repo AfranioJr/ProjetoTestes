@@ -6,10 +6,10 @@ This is a proof o concept of test automation of gympass webpages. The tests are 
 
 ### To run this project you will need the bellow tools:
 ```bash
-- Git (oh no... are you serious?!)
-- Node (my current version is v12.6.0)
-- NPM (my current version is v6.9.0)
-- Your best code editor (I use VSCode with some extensios)*
+Git (oh no... are you serious?!)
+Node (my current version is v12.6.0)
+NPM (my current version is v6.9.0)
+Your best code editor (I use VSCode with some extensios)*
 ```
 
 ### To install the project you just need to clone the project and run the bellow commands 
@@ -26,9 +26,9 @@ Feel free to update anything you miss in here! :)
 
 ### My VSCode extensios are:
 ```bash
-- Cucumber (Gherkin) full support
-- Prettier - code formatter
-- Material Icon Theme
+Cucumber (Gherkin) full support
+Prettier - code formatter
+Material Icon Theme
 ```
 ## Develop
 Quality Team

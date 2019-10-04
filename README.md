@@ -1,4 +1,4 @@
-# Hackday Gympass - 03-out
+# Hackday Gympass - 
 <h3>Test automation project as a PoC for front-end test automation implementation on gympass tribes.</h3>
 
 This is a proof o concept of test automation of gympass webpages. The tests are written using cypress.io framework and it'll automate the gympass homepage (that users access to registrate themself/sign-in in the platform). This PoC will also be used as a model to future fron-end automation process from Quality Assurance Engineering team.
@@ -32,4 +32,4 @@ Feel free to update anything you miss in here! :)
 ```
 ## Develop
 Quality Team
-[Gympass](https://gympas.com/)
+[Gympass](https://gympas.com/) - 03-out-2019
